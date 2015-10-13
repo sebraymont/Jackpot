@@ -86,7 +86,6 @@
             this.lblbets.Size = new System.Drawing.Size(31, 13);
             this.lblbets.TabIndex = 5;
             this.lblbets.Text = "Bets:";
-
             // 
             // Form1
             // 
