@@ -58,7 +58,16 @@ namespace Jackpot
 
                     lstcash[i] = txtCash.Text;
 
-                    for (int j = 0; j < labels.Length; j++)
+                    
+                    labels[i] = new Label();
+                    labels[i].AutoSize = true;
+                    labels[i].Text = txtName.Text + " £" + txtCash.Text;
+                    labels[i].Location = new System.Drawing.Point(315, 50 + (i * 30));
+                    this.Controls.Add(labels[i]);
+
+
+
+                    for (int j = 0; j < i; j++)
                     {
                         perc = (Int32.Parse(lstcash[j]) / total) * 100;
                         labels2[j].Text = " (" + perc.ToString() + "%)";
@@ -66,12 +75,10 @@ namespace Jackpot
                         this.Controls.Add(labels2[j]);
                     }
 
-                    
-                    labels[i] = new Label();
-                    labels[i].AutoSize = true;
-                    labels[i].Text = txtName.Text + " £" + txtCash.Text;
-                    labels[i].Location = new System.Drawing.Point(315, 50 + (i * 30));
-                    this.Controls.Add(labels[i]);
+
+
+
+
                     i++;
                 }
             }
