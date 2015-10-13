@@ -13,3 +13,11 @@ C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\D
 C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Debug\Jackpot.csproj.GenerateResource.Cache
 C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Debug\Jackpot.pdb
 C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Debug\Jackpot.csprojResolveAssemblyReference.cache
+C:\Users\JakeHere\Documents\GitHub\Jackpot\Jackpot\obj\x86\Debug\Jackpot.exe
+C:\Users\JakeHere\Documents\GitHub\Jackpot\Jackpot\obj\x86\Debug\Jackpot.pdb
+C:\Users\JakeHere\Documents\GitHub\Jackpot\Jackpot\bin\Debug\Jackpot.exe
+C:\Users\JakeHere\Documents\GitHub\Jackpot\Jackpot\bin\Debug\Jackpot.pdb
+C:\Users\JakeHere\Documents\GitHub\Jackpot\Jackpot\obj\x86\Debug\Jackpot.csprojResolveAssemblyReference.cache
+C:\Users\JakeHere\Documents\GitHub\Jackpot\Jackpot\obj\x86\Debug\Jackpot.Form1.resources
+C:\Users\JakeHere\Documents\GitHub\Jackpot\Jackpot\obj\x86\Debug\Jackpot.Properties.Resources.resources
+C:\Users\JakeHere\Documents\GitHub\Jackpot\Jackpot\obj\x86\Debug\Jackpot.csproj.GenerateResource.Cache
