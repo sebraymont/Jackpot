@@ -1,0 +1,15 @@
+C:\Users\raymont\AppData\Local\Temporary Projects\Jackpot\obj\x86\Debug\Jackpot.Form1.resources
+C:\Users\raymont\AppData\Local\Temporary Projects\Jackpot\obj\x86\Debug\Jackpot.Properties.Resources.resources
+C:\Users\raymont\AppData\Local\Temporary Projects\Jackpot\obj\x86\Debug\Jackpot.csproj.GenerateResource.Cache
+C:\Users\raymont\AppData\Local\Temporary Projects\Jackpot\bin\Debug\Jackpot.exe
+C:\Users\raymont\AppData\Local\Temporary Projects\Jackpot\bin\Debug\Jackpot.pdb
+C:\Users\raymont\AppData\Local\Temporary Projects\Jackpot\obj\x86\Debug\Jackpot.exe
+C:\Users\raymont\AppData\Local\Temporary Projects\Jackpot\obj\x86\Debug\Jackpot.pdb
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Debug\Jackpot.exe
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\bin\Debug\Jackpot.exe
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\bin\Debug\Jackpot.pdb
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Debug\Jackpot.Form1.resources
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Debug\Jackpot.Properties.Resources.resources
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Debug\Jackpot.csproj.GenerateResource.Cache
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Debug\Jackpot.pdb
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Debug\Jackpot.csprojResolveAssemblyReference.cache

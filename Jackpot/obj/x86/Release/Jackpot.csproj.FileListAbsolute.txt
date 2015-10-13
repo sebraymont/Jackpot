@@ -1,0 +1,7 @@
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\bin\Release\Jackpot.exe
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\bin\Release\Jackpot.pdb
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Release\Jackpot.Form1.resources
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Release\Jackpot.Properties.Resources.resources
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Release\Jackpot.csproj.GenerateResource.Cache
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Release\Jackpot.exe
+C:\Users\raymont\documents\visual studio 2010\Projects\Jackpot\Jackpot\obj\x86\Release\Jackpot.pdb
